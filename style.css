@@ -1,0 +1,78 @@
+h1 {
+    color: #9900ff;
+    font-size: 70px;
+     font-weight: 100;
+    font-family: VeronikaSantini
+   background-color: #eae8cb;
+   border: 3px dotted ;
+   border-width: thick;
+   border-radius: 20px;
+    
+}
+
+
+.nav{
+     list-style-type: none;
+     overflow: hidden;
+   
+}
+
+body  {
+       background-color: #EEE8AA;
+}
+
+
+.nav li{
+        float: left;
+}
+
+.nav li a{
+          display: block;
+          color: rgb(37, 3, 104);
+          text-align: center;
+          font-family: Garamond, serif;
+          font-size: 25px;
+          padding:14px 16px; 
+          margin:0		  
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+	font-size: 40px
+    color: darkslategray;
+    background-color: white;
+    border: #9900ff;
+    border-radius: px;
+    font-weight: 600;
+	text-decoration: underline;
+	
+	}
+
+p{
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+        font-weight: 100;
+		border-style: solid;
+        border-width: medium;
+		
+
+       
+    }
+
+    h3{
+        font-size: 20px;
+        background-color: aliceblue;
+        font-family: "Times New Roman", Times, serif;
+		text-decoration: underline;
+    }
+
+    h1 {
+        font-family:"VeronikaSantini";
+   }
+   @font-face {
+      font-family: VeronikaSantini;
+      src: url("font/VeronikaSantini.ttf");
+   }
+ .img {
+    background-color: #c3a3d8;
+ }
+   
